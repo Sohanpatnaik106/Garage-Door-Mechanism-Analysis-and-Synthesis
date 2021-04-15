@@ -7,4 +7,4 @@ Group Members:
 
 This repository consists of graphical synthesis of 4R Garage Door Mechanism. We have worked to synthesise three mechanisms and arrived at the best results for mechanism 3 whose simulation code could be found in files 'MECHANISM_03.m' and 'MECHANISM_03_3D.m'
 
-Simulation code by Souvik Basak.
+Simulation code by Souvik Basak (https://github.com/nefynbait).
